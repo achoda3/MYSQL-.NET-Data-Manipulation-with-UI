@@ -11,7 +11,6 @@ Lastly, we need to have a MySQL sserver running with the relative data. The data
 Now you can run the server. The UI is relatively simple and the commands can be run based on the csv for the F# commands and the SQL database for the SQL commands.
 
 By the end, your output will looks like this:
-
 ![image](https://user-images.githubusercontent.com/60198023/147705312-b43f7a48-2672-4c1d-b1a1-3a35c6a7a1be.png)
 
 ![image](https://user-images.githubusercontent.com/60198023/147705388-e65f19d2-accc-46f8-b9c8-e4cbc127d1ba.png)
