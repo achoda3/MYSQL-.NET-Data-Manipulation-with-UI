@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\MyFSharpLibHw5\MyFSharpLibHw5\MyFSharpLibHw5.fsproj" />
+    <ProjectReference Include="..\MyFSharpLibHw5\MyFSharpLibHw5.fsproj" />
   </ItemGroup>
 
 </Project>
